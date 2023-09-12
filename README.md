@@ -42,7 +42,7 @@ I found that these could be stored as config settings by putting them under 'con
      tags.env: 'dev'
      tags.owner: 'martin'
      tags.team: 'dev'
-     tags.source: 'https://github.com/AFSCME/unionware-connector/tree/main' 
+     tags.source: 'https://github.com/martinpsz/examplepulumiproj/tree/main' 
 ```
 
 The above formatting returns an object like the JS example above when called in the project file by using the following code:
